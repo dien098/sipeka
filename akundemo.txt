@@ -1,0 +1,7 @@
+1. Admin
+username: admin
+password: admin123
+
+2. users
+username: user
+password: user1234
